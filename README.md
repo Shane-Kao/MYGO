@@ -1,0 +1,4 @@
+# Testing
+```{bash}
+pytest --cov=.
+```
